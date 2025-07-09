@@ -1,0 +1,19 @@
+Write a program to print a character
+
+INPUT & OUTPUT FORMAT: 
+
+Input consists of 1 character. Output consists of 1 character.
+
+
+Constraints:
+NA
+
+
+Example:
+Sample Input:
+
+A
+
+Sample Output:
+
+A
